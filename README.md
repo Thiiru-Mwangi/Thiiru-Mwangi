@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 
+> I am a Javascript/Typescript Full stack Software Engineer. I specialize in React Js, Vue Js and React Native frameworks. I have accumulated 1000+ hours of logged coding experience.
 
-<!--
-**Thiiru-Mwangi/Thiiru-Mwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+#### 🛠️ Tech Stack
+1. **Frontend:** React (TypeScript), Vue 3, Tailwind CSS, GSAP, React Hook Form
+2. **Backend:** Node.js, Express, MongoDB
+3. **Auth & APIs:** Passport.js, JWT, Daraja API (M-Pesa)
+4. **Other Tools:** Git, GitHub, Postman, VS Code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+#### 📫 Reach me
+Email : thiirumwangi@gmail.com
